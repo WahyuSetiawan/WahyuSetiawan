@@ -1,5 +1,5 @@
 ![Alt text](https://wakatime.com/share/@creator911/a2ad20a2-09e9-4264-a3cc-7023e910db48.svg)
-<img src="https://wakatime.com/share/@creator911/a2ad20a2-09e9-4264-a3cc-7023e91b48.svg)">
+<img src="https://wakatime.com/share/@creator911/a2ad20a2-09e9-4264-a3cc-7023e91b48.svg">
 
 - 👋 Hi, I’m @WahyuSetiawan
 - 👀 I’m interested in Develop
