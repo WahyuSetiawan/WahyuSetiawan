@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Website: 
-[https://www.juragankoding.com](https://www.juragankoding.com)
-[https://notes.juragankoding.com](https://notes.juragankoding.com)
+1. [https://www.juragankoding.com](https://www.juragankoding.com)
+2. [https://notes.juragankoding.com](https://notes.juragankoding.com)
